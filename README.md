@@ -15,4 +15,4 @@ Code and papers for Low-Dose CT denoising
 - (SMGAN)Structure-sensitive Multi-scale Deep Neural Network for Low-Dose CT Denoising (IEEE Access 2018) [[PDF]](https://arxiv.org/abs/1805.00587) [[Code]](https://github.com/SSinyu/SMGAN)
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network (TMI 2018) [[PDF]](https://ieeexplore.ieee.org/document/8353466) [[Code]](https://github.com/hmshan/CPCE-3D)
 - Deep Convolutional Framelet Denoising for Low-Dose CT via Wavelet Residual Network(TMI 2018) [[PDF]](https://ieeexplore.ieee.org/abstract/document/8332971) [[Code]](https://github.com/eunh/low_dose_CT)
-- 
+
