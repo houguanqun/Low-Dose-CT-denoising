@@ -18,3 +18,5 @@ Code and papers for Low-Dose CT denoising
 - Deep Convolutional Framelet Denoising for Low-Dose CT via Wavelet Residual Network(TMI 2018) [[PDF]](https://ieeexplore.ieee.org/abstract/document/8332971) [[Code]](https://github.com/eunh/low_dose_CT)
 - SDCNet: Smoothed dense-convolution network for restoring low-dose cerebral CT perfusion(ISBI 2018) [[PDF]](https://ieeexplore.ieee.org/document/8363590)
 - SIPID: A deep learning framework for sinogram interpolation and image denoising in low-dose CT reconstruction(ISBI 2018) [[PDF]](https://ieeexplore.ieee.org/document/8363862) [[Code]](https://github.com/angeberry/SIPID)
+- Consensus Neural Network for Medical Imaging Denoising with Only Noisy Training Samples（MICCAI 2019） [[PDF]](http://arxiv.org/pdf/1906.03639v1.pdf)
+- BCD-Net for Low-dose CT Reconstruction: Acceleration, Convergence, and Generalization(MICCAI 2019) [[PDF]](https://arxiv.org/pdf/1908.01287.pdf)
