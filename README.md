@@ -21,3 +21,4 @@ Code and papers for Low-Dose CT denoising
 - Consensus Neural Network for Medical Imaging Denoising with Only Noisy Training Samples（MICCAI 2019） [[PDF]](http://arxiv.org/pdf/1906.03639v1.pdf)
 - BCD-Net for Low-dose CT Reconstruction: Acceleration, Convergence, and Generalization(MICCAI 2019) [[PDF]](https://arxiv.org/pdf/1908.01287.pdf)
 - Domain Progressive 3D Residual Convolution Network to Improve Low Dose CT Imaging(TMI 2019) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8718010)
+- EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising [[PDF]](https://arxiv.org/abs/2011.00139) [[Code]](https://github.com/workingcoder/EDCNN)
